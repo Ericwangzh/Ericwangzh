@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Ericwangzh
+- I like coding and like C++.
